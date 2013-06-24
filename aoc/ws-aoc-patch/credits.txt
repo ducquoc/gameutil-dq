@@ -1,0 +1,4 @@
+Bart de Boer, original author of aoe2wide
+Stoyan Ratchev, author of drsbuild
+Sword_of_STORM, author of Mod Workshop
+pokazeny_vysavac (biegl...@gmail.com), author of aoe2wspatch
