@@ -6,11 +6,15 @@ Age of Conquerors (Age of Kings - the Conquerors expansion)
 Also known as AoK-TC.
 
 ### Download
+
+(old downloads: https://sites.google.com/site/newbielearnlinux2/games )
+
 version 1.0c (or patched anti-hack 1.0d, 1.0e)
 
 http://vns-clan.org/Forum/showthread.php?809-Download-Patch-1.0c-1.0e
 
 Some other backups:
+
 http://aoc.khoahocvui.info/download/source-game-aoe-2.html
 http://www.mediafire.com/file/id5k1uqnkzr1c9b/Age+of+Empires+1.oc+and+1.4RC.rar
 https://drive.google.com/file/d/0B5iFWw6782WlS0xrcTRuVGk4b2M/view
