@@ -7,11 +7,9 @@ Also known as AoK-TC.
 
 ### Download
 
+Full AoC (Garena, Voobly, ...): https://www.mediafire.com/file/rwz64ti0976rdv7/AoC_DQ.zip
+
 (old downloads: https://sites.google.com/site/newbielearnlinux2/games )
-
-version 1.0c (or patched anti-hack 1.0d, 1.0e)
-
-http://vns-clan.org/Forum/showthread.php?809-Download-Patch-1.0c-1.0e
 
 Some other backups:
 
@@ -23,6 +21,10 @@ https://www.opendrive.com/files/61819371_eC73r_1c46/Age%20of%20Empires%202.dmg
 http://paulthetall.opendrive.com/files/66660607_UTKq1_19a9/Age%20of%20Empires%202.dmg
 
 (single EXE overwrite: http://www.mediafire.com/file/tlt239oypzjk4at/age2_x1_1.0c.exe )
+
+Version 1.0c (or patched anti-hack 1.0d, 1.0e)
+
+http://vns-clan.org/Forum/showthread.php?809-Download-Patch-1.0c-1.0e
 
 Widescreen patch: see ws-aoc-patch, or download version 1.4+ 
 
