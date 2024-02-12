@@ -3,13 +3,14 @@ AOC
 
 Age of Conquerors (Age of Kings - the Conquerors expansion)
 
-Also known as AoK-TC.
+Also known as AoK-TC (AoE II - TC).
 
 ### Download
 
-Full AoC (Garena, Voobly, ...): https://www.mediafire.com/file/rwz64ti0976rdv7/AoC_DQ.zip
+Full AoC (Garena, Voobly, ...) with AI: https://drive.google.com/file/d/1lZ0zNR2pAiJsZ6BrnjSYkjarniiCzLki/view?usp=sharing
 
-(old downloads: https://sites.google.com/site/newbielearnlinux2/games )
+(old downloads: https://sites.google.com/site/newbielearnlinux2/games-aoc-cch-emulators 
+https://www.mediafire.com/file/rwz64ti0976rdv7/AoC_DQ.zip )
 
 Some other backups:
 
@@ -31,9 +32,12 @@ Widescreen patch: see ws-aoc-patch, or download version 1.4+
 AoK: 13 civils (Britons,Celts,Chinese,Mongols, ...)
 AoK-TC: added 5 more civils (Aztec,Mayan,Spanish,Huns,Koreans)
 
-Micro$oft recently released new expansions with some more "civils" (Vietnam, Burma, ...):
+Micro$oft recently released new expansions with some more "civils" (Vietnam, Burma, ...): AoE II HD
 https://en.wikipedia.org/wiki/Age_of_Empires_II#Age_of_Empires_II_HD:_Rise_of_the_Rajas
 
+AoE II DE, AoE IV: https://www.facebook.com/groups/131199836987312/posts/6973490772758150
+
+https://sofsog.com/game/age-of-empires-ii-the-age-of-kings-de-che-2-de-che-xanh
 
 ### Contact
 
